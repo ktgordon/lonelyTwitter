@@ -5,4 +5,7 @@ package ca.ualberta.cs.lonelytwitter;
  */
 
 public class Excited extends Mood {
+    public String format(){
+        return "I'm so excited!";
+    }
 }
